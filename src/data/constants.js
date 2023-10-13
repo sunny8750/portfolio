@@ -1,20 +1,21 @@
 export const Bio = {
-    name: "AsDemo",
+    name: "Abhishek Pandey",
     roles: [
       "Full Stack Developer",
-      "Android Developer",
+      "Frontend Developer",
       "UI/UX Designer",
       "Programmer",
+      "MERN Developer",
     ],
     description:
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-    github: "https://github.com/rishavchanda",
+    github: "https://github.com/abhishek2813",
     resume:
-      "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
-    linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-    twitter: "https://twitter.com/RishavChanda",
-    insta: "https://www.instagram.com/rishav_chanda/",
-    facebook: "https://www.facebook.com/rishav.chanda.165/",
+      "",
+    linkedin: "",
+    twitter: "",
+    insta: "",
+    facebook: "",
   };
   
   export const skills = [
@@ -61,7 +62,7 @@ export const Bio = {
            "https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png",
         },
         {
-          name: "Flutter",
+          name: "Ant Design",
           image:
             "https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png",
         },
@@ -84,18 +85,9 @@ export const Bio = {
           image: "https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg",
         },
         {
-          name: "Python",
-          image:
-            "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-        },
-        {
           name: "MySQL",
           image:
             "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
-        },
-        {
-          name: "Postgresql",
-          image: "https://www.postgresql.org/media/img/about/press/elephant.png",
         },
         {
           name: "MongoDB",
@@ -122,11 +114,6 @@ export const Bio = {
             "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
         },
         {
-          name: "Docker",
-          image:
-            "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
-        },
-        {
           name: "Netlify",
           image:
             "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
@@ -140,11 +127,6 @@ export const Bio = {
           name: "Postman",
           image:
             "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
-        },
-        {
-          name: "Adobe XD",
-          image:
-            "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
         },
         {
           name: "Figma",
