@@ -1,5 +1,5 @@
 export const Bio = {
-    name: "Abhishek Pandey",
+    name: "WebYourTech",
     roles: [
       "Full Stack Developer",
       "Frontend Developer",
@@ -8,7 +8,7 @@ export const Bio = {
       "MERN Developer",
     ],
     description:
-      "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+      " Software is a cutting-edge software company at the forefront of technological innovation. We specialize in developing custom software solutions to meet the unique needs of businesses across various industries. Our team of talented engineers and designers work tirelessly to create user-friendly, efficient, and scalable software applications that empower our clients to streamline their operations and stay ahead in the digital age.",
     github: "https://github.com/abhishek2813",
     resume:
       "",

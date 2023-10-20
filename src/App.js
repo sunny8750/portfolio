@@ -14,6 +14,7 @@ import Experience from "./components/Experience";
 // import Education from "./components/Education";
 import ProjectDetails from "./components/ProjectDetails";
 import styled from "styled-components";
+import Whatsapp from "./components/whatsapp/index.js";
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -44,11 +45,13 @@ function App() {
           <Wrapper>
             {/* <Education /> */}
             <Contact />
+            
           </Wrapper>
           <Footer />
           {openModal.state &&
             <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
           }
+          <Whatsapp/>
         </Body>
       </Router>
     </ThemeProvider>

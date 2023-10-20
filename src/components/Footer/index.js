@@ -88,13 +88,11 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>ASDEMO</Logo>
+        <Logo>WebYourTech</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
-          <NavLink href="#experience">Experience</NavLink>
           <NavLink href="#projects">Projects</NavLink>
-          <NavLink href="#education">Education</NavLink>
         </Nav>
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
@@ -103,7 +101,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 ASDEMO. All rights reserved.
+          &copy; 2023 WebYourTech. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
