@@ -8,7 +8,7 @@ export const Bio = {
       "MERN Developer",
     ],
     description:
-      " Software is a cutting-edge software company at the forefront of technological innovation. We specialize in developing custom software solutions to meet the unique needs of businesses across various industries. Our team of talented engineers and designers work tirelessly to create user-friendly, efficient, and scalable software applications that empower our clients to streamline their operations and stay ahead in the digital age.",
+      "Let's take your online business to new heights with Web Your Tech. we are the team who provide websites and solutions for your online businesses in affordable prices, Our plan starts with :- 3999 only.",
     github: "https://github.com/abhishek2813",
     resume:
       "",
