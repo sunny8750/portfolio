@@ -7,8 +7,8 @@ function Whatsapp( {
   return (
     <div className="App">
     <FloatingWhatsApp
-      phoneNumber="9315887944"
-      accountName="WebYourTech"
+      phoneNumber="8447653414"
+      accountName="Web Your Tech"
       notification
       notificationSound
     />
